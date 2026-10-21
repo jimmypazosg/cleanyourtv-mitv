@@ -232,7 +232,7 @@ BYINTEK, JMGO, Portronics, Stellamore, Wanbo and XGIMI projectors
 | XGIMI MoGo 3 Pro projector (G0035, altai, MediaTek) | Google TV 14 |
 | Xiaomi Mi Box S (MIBOX4, oneday), streaming box | Android TV 9 |
 | Xiaomi Mi Box S 2nd gen (MiTV-AFKR0, jaws), streaming box | Google TV 11 |
-| Xiaomi Mi TV (MiTV-MOOQ0, croods) | Android TV 10 |
+| [Xiaomi Mi TV (MiTV-MOOQ0, croods)](docs/devices/xiaomi-mitv-mooq0.md) | Android TV 10 |
 | Xiaomi Mi TV 4A (MiTV-MOOQ1) | Android TV 10 |
 | Xiaomi MiTV-AESP0 stick (aquaman, 1 GB) | Android TV 9 |
 | Xiaomi MiTV-ANSP0 (小米电视5 Pro 65", jobs, Amlogic), China firmware 23.6.5.3226, 4 GB RAM | Android TV 9 (CN build) |
